@@ -2,7 +2,7 @@
 Scarica tutte le domande & risposte del quiz per la patente B dal sito https://guidaevai.com/
 PS: Educational purposes only :)
 
-Se qualcuno vuole le domande, scrivetemi su Discord (@rattly). Preferisco non caricarle su Github per evitare problemi di Copyright
+Se qualcuno vuole le domande, scrivetemi su Discord (@rattly). Preferisco non caricarle su Github per evitare problemi di copyright.
 
 ## How to
 - `gradle build`
